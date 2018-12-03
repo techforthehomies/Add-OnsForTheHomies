@@ -1,4 +1,4 @@
-#Add-Ons For the Homies
+# Add-Ons For the Homies
 ## A collection of Firefox add-ons to archive and share content, and help improve users from marginalized backgorunds experience on social media
 
 In my article (About Me: My homies are online and having a bad time)[https://rentry.co/techforthehomies_aboutme], I wrote about the failures of social media platforms to cater to its users from marginalized backgrounds, and what alternative options we currently have. I concluded that while many people are fighting to rectify the situation and coming up with indepdent platforms, these mainstream social media platforms will remain important to us.
